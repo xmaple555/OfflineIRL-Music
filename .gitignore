@@ -11,3 +11,5 @@
 src/seg
 **/sampled_music/
 *.xlsx
+
+!requirements.txt
