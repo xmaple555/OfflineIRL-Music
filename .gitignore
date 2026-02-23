@@ -1,0 +1,13 @@
+*.zip
+*.mid
+**/__pycache__/
+*.pkl
+*.txt
+**/wandb/
+**/ckpt/
+**/data_pkl/
+.vscode
+*.pt
+src/seg
+**/sampled_music/
+*.xlsx
